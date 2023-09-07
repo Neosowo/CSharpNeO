@@ -1,0 +1,16 @@
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\bin\Debug\Saldaña code metodos y funciones.exe.config
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\bin\Debug\Saldaña code metodos y funciones.exe
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\bin\Debug\Saldaña code metodos y funciones.pdb
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.exe
+D:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.pdb
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\bin\Debug\Saldaña code metodos y funciones.exe.config
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\bin\Debug\Saldaña code metodos y funciones.exe
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\bin\Debug\Saldaña code metodos y funciones.pdb
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.exe
+Z:\Repositorios C#\Practica 7 17 agos 22\Saldaña code metodos y funciones\Saldaña code metodos y funciones\Saldaña code metodos y funciones\obj\Debug\Saldaña code metodos y funciones.pdb

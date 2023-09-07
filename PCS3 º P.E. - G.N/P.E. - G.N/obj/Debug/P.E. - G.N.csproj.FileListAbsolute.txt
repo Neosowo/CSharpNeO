@@ -1,0 +1,8 @@
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\obj\Debug\P.E. - G.N.csproj.AssemblyReference.cache
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\obj\Debug\P.E. - G.N.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\obj\Debug\P.E. - G.N.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\bin\Debug\P.E.__G.N.exe.config
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\bin\Debug\P.E.__G.N.exe
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\bin\Debug\P.E.__G.N.pdb
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\obj\Debug\P.E.__G.N.exe
+D:\Repositorios C#\NeoCarpet\P.E. - G.N\P.E. - G.N\obj\Debug\P.E.__G.N.pdb

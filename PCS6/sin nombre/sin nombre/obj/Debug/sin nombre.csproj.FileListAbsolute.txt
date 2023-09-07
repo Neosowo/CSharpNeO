@@ -1,0 +1,8 @@
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\bin\Debug\sin nombre.exe.config
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\bin\Debug\sin nombre.exe
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\bin\Debug\sin nombre.pdb
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\obj\Debug\sin nombre.csproj.AssemblyReference.cache
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\obj\Debug\sin nombre.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\obj\Debug\sin nombre.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\obj\Debug\sin nombre.exe
+D:\Repositorios C#\NeoCarpet\PCS6\sin nombre\sin nombre\obj\Debug\sin nombre.pdb

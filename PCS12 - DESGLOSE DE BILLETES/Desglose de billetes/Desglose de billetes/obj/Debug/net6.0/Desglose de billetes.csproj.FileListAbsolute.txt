@@ -1,0 +1,15 @@
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\net6.0\Desglose de billetes.exe
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\net6.0\Desglose de billetes.deps.json
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\net6.0\Desglose de billetes.runtimeconfig.json
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\net6.0\Desglose de billetes.dll
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\bin\Debug\net6.0\Desglose de billetes.pdb
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.AssemblyInfoInputs.cache
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.AssemblyInfo.cs
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.dll
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\refint\Desglose de billetes.dll
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.pdb
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\Desglose de billetes.genruntimeconfig.cache
+Z:\Repositorios C#\Desglose de billetes\Desglose de billetes\Desglose de billetes\obj\Debug\net6.0\ref\Desglose de billetes.dll

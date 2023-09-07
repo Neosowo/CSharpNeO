@@ -1,0 +1,8 @@
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\bin\Debug\Exercise.exe.config
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\bin\Debug\Exercise.exe
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\bin\Debug\Exercise.pdb
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\obj\Debug\Exercise.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\obj\Debug\Exercise.exe
+Z:\Repositorios C#\Practica 9 31 agos 22\Exercise\Exercise\obj\Debug\Exercise.pdb

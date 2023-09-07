@@ -1,0 +1,8 @@
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\bin\Debug\Structure.exe.config
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\bin\Debug\Structure.exe
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\bin\Debug\Structure.pdb
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\obj\Debug\Structure.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\obj\Debug\Structure.exe
+Z:\Repositorios C#\NeoCarpet\PCS9\Structure\Structure\obj\Debug\Structure.pdb

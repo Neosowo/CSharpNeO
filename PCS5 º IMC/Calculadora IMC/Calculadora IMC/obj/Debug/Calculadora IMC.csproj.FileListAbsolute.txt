@@ -1,0 +1,8 @@
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe.config
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.exe
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\bin\Debug\Calculadora IMC.pdb
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.AssemblyReference.cache
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.exe
+D:\Repositorios C#\NeoCarpet\PCS5 º IMC\Calculadora IMC\Calculadora IMC\obj\Debug\Calculadora IMC.pdb

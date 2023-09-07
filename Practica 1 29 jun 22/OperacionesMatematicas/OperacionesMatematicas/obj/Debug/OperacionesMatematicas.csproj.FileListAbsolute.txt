@@ -1,0 +1,8 @@
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\OperacionesMatematicas.exe.config
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\OperacionesMatematicas.exe
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\OperacionesMatematicas.pdb
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.exe
+D:\Repositorios C#\Practica 1\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\OperacionesMatematicas.pdb

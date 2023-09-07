@@ -1,0 +1,15 @@
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.exe
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.dll
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.csproj.AssemblyReference.cache
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.dll
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\refint\Cronometro.dll
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
+Z:\Repositorios C#\NeoCarpet\PCS8\Cronometro\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll

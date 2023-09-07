@@ -1,0 +1,24 @@
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.exe.config
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.exe
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.pdb
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.exe
+D:\Repositorios C#\Practica 2\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.pdb
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.exe.config
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.exe
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.pdb
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.exe
+D:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.pdb
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.exe.config
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.exe
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\bin\Debug\Km a metros  segundos.pdb
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.exe
+Z:\Repositorios C#\Practica 2 06 jul 22\Km a metros segundos\Km a metros  segundos\Km a metros  segundos\obj\Debug\Km a metros  segundos.pdb

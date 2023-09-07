@@ -1,0 +1,16 @@
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\bin\Debug\Arreglos _Clases_Metodos.exe.config
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\bin\Debug\Arreglos _Clases_Metodos.exe
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\bin\Debug\Arreglos _Clases_Metodos.pdb
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.exe
+D:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.pdb
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.exe
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\obj\Debug\Arreglos _Clases_Metodos.pdb
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\bin\Debug\Arreglos _Clases_Metodos.exe.config
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\bin\Debug\Arreglos _Clases_Metodos.exe
+Z:\Repositorios C#\Practica 8 24 agos 22\Arreglos _Clases_Metodos\Arreglos _Clases_Metodos\bin\Debug\Arreglos _Clases_Metodos.pdb

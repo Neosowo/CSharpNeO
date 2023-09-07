@@ -1,0 +1,8 @@
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\bin\Debug\Leccion.exe.config
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\bin\Debug\Leccion.exe
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\bin\Debug\Leccion.pdb
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\obj\Debug\Leccion.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\obj\Debug\Leccion.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\obj\Debug\Leccion.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\obj\Debug\Leccion.exe
+Z:\Repositorios C#\Practica 9 31 agos 22\Leccion\Leccion\obj\Debug\Leccion.pdb

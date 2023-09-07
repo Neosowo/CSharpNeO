@@ -1,0 +1,8 @@
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\bin\Debug\SistemNotes.exe.config
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\bin\Debug\SistemNotes.exe
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\bin\Debug\SistemNotes.pdb
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\obj\Debug\SistemNotes.csproj.AssemblyReference.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\obj\Debug\SistemNotes.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\obj\Debug\SistemNotes.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\obj\Debug\SistemNotes.exe
+Z:\Repositorios C#\NeoCarpet\PCS11\SistemNotes\SistemNotes\obj\Debug\SistemNotes.pdb

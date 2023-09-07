@@ -1,0 +1,8 @@
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\bin\Debug\Exercise Arreglos.exe.config
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\bin\Debug\Exercise Arreglos.exe
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\bin\Debug\Exercise Arreglos.pdb
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\obj\Debug\Exercise Arreglos.csproj.AssemblyReference.cache
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\obj\Debug\Exercise Arreglos.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\obj\Debug\Exercise Arreglos.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\obj\Debug\Exercise Arreglos.exe
+D:\Repositorios C#\ERICK YANEZ - PRACTICAS\ARREGLOS\Exercise Arreglos\Exercise Arreglos\obj\Debug\Exercise Arreglos.pdb

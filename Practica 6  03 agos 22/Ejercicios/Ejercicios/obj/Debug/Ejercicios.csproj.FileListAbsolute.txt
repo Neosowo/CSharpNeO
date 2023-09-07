@@ -1,0 +1,16 @@
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+D:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+Z:\Repositorios C#\Practica 6  03 agos 22\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb

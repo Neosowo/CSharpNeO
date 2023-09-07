@@ -1,0 +1,8 @@
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\bin\Debug\PCS2.exe.config
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\bin\Debug\PCS2.exe
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\bin\Debug\PCS2.pdb
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\obj\Debug\PCS2.csproj.AssemblyReference.cache
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\obj\Debug\PCS2.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\obj\Debug\PCS2.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\obj\Debug\PCS2.exe
+D:\Repositorios C#\NeoCarpet\PCS2\PCS2\obj\Debug\PCS2.pdb

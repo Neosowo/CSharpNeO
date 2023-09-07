@@ -1,0 +1,8 @@
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+Z:\Repositorios C#\Practica 9 31 agos 22\Cronometro\Cronometro\obj\Debug\Cronometro.pdb

@@ -1,0 +1,17 @@
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+Z:\Repositorios C#\NeoCarpet\PCS11\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

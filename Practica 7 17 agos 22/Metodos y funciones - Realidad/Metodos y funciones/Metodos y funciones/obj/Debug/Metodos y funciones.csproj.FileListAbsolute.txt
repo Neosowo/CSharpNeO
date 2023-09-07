@@ -1,0 +1,16 @@
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\bin\Debug\Metodos y funciones.exe.config
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\bin\Debug\Metodos y funciones.exe
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\bin\Debug\Metodos y funciones.pdb
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.exe
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.pdb
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\bin\Debug\Metodos y funciones.exe.config
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\bin\Debug\Metodos y funciones.exe
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\bin\Debug\Metodos y funciones.pdb
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.exe
+D:\Repositorios C#\Practica 7 17 agos 22\Metodos y funciones - Realidad\Metodos y funciones\Metodos y funciones\obj\Debug\Metodos y funciones.pdb

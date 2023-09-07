@@ -1,0 +1,16 @@
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\bin\Debug\Aporte_Yánez.exe.config
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\bin\Debug\Aporte_Yánez.exe
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\bin\Debug\Aporte_Yánez.pdb
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.csproj.AssemblyReference.cache
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.csproj.CoreCompileInputs.cache
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.exe
+D:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.pdb
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\bin\Debug\Aporte_Yánez.exe.config
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\bin\Debug\Aporte_Yánez.exe
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\bin\Debug\Aporte_Yánez.pdb
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.csproj.AssemblyReference.cache
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.csproj.SuggestedBindingRedirects.cache
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.csproj.CoreCompileInputs.cache
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.exe
+Z:\Repositorios C#\Practica 3 13 jul 22 (APORTE)\Aporte_Yánez\Aporte_Yánez\obj\Debug\Aporte_Yánez.pdb
