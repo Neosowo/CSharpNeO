@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "N9NCrJj+Xly8hoLcFFb8fBFU5DbcnpHG+brKV65nDFKZp534Wq/jHJ5JlDb1yelD/PK0r1HGAdir4b67PfVz6g==",
+  "dgSpecHash": "CKDsPnBVtH8WX/43hzBFy3sUS0zzMZAA4C48MOHTpqrTT+l5hjaEbm1639hWmC/2sXf/TZl5OUJJShwYm19A/w==",
   "success": true,
-  "projectFilePath": "Z:\\Repositorios C#\\NeoCarpet\\PCS10 - IMC C#\\IMC\\IMC\\IMC.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\erick\\source\\repos\\CSharpNeO\\PCS10 - IMC C#\\IMC\\IMC\\IMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

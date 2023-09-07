@@ -81,8 +81,9 @@ namespace IMC
             {
                 Console.WriteLine("Saliendo del programa...");
                 Thread.Sleep(10);
-                Thread.Exit(10);
+                
             }
         }
     }
-}''ñp
+}
+
