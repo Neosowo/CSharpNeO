@@ -1,4 +1,4 @@
-# ![Logo de C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) PyNeo
+# ![Logo de C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) CSharpNeO
 
 ## 💫 Acerca de este Repositorio:
 ¡Bienvenido a mi Repositorio de Programas en C#! Explora una colección de proyectos y ejemplos de código en C#. Siéntete libre de hacer un fork, contribuir y usar el código según sea necesario.
